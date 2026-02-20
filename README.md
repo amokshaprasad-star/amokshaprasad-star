@@ -1,9 +1,7 @@
 Hi 👋, I'm Moksha
 
 🎯 A passionate Business Intelligence Analyst with a flair for dashboard design and data storytelling
-
 📊 Skilled in Tableau, Power BI, Python,SQL, and Excel
-
 🚀 Currently curating a standout BI portfolio to engage recruiters and showcase impact
 
 🌱 What I'm Working On
@@ -24,6 +22,7 @@ GitHub
 📫 Connect with Me
 
 LinkedIn Portfolio Email
+
 
 ✨ Fun Fact
 
